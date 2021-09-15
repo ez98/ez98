@@ -2,7 +2,7 @@
 - 👀 I’m interested in automating IT infrastructure with tools like Terraform, Ansible, Jenkins, etc,. 
 - 🌱 I’m currently learning and experimenting with AWS
 - 💞️ I’m looking to collaborate on anything related to cloud engineering!
-- 📫 How to reach me ...
+- 📫 How to reach me: https://www.linkedin.com/in/ezaca98/ or ezacarias@hawk.iit.edu
 
 <!---
 ez98/ez98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
