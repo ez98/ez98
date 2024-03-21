@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric Z
-- 👀 I’m interested in automating IT infrastructure with tools like Terraform, Ansible, Jenkins, etc,. 
-- 🌱 I’m currently learning and experimenting with AWS
-- 💞️ I’m looking to collaborate on anything related to cloud engineering!
+- 👀 I’m interested in automating IT infrastructure with tools like AWS, Ansible, Jenkins, etc,. 
+- 🌱 I’m currently learning and experimenting with CI/CD pipelines (2024)
+- 🧑‍💻 I’m looking to collaborate on anything related to cloud automation/development!
 - 📫 How to reach me: https://www.linkedin.com/in/ezaca98/ or ezacarias@hawk.iit.edu
 
 <!---
